@@ -3,3 +3,4 @@ Repositorio para la materia Sistemas de manufactura ITQ
 
 ## SebastianMaciasGarcia
 ## JuliaHerreraJaime
+## IvetteSilva
