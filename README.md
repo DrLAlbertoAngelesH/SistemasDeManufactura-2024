@@ -1,5 +1,4 @@
 # SistemasDeManufactura-2024
-Repositorio para la materia Sistemas de manufactura ITQ
+## Repositorio para la materia Sistemas de manufactura ITQ
 
-## SebastianMaciasGarcia
-## JuliaHerreraJaime
+## JuliaHerreraJaime 
