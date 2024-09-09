@@ -1,4 +1,11 @@
 # SistemasDeManufactura-2024
 Repositorio para la materia Sistemas de manufactura ITQ
 
-## EspadasRamosKarla
+## SebastianMaciasGarcia
+## JuliaHerreraJaime
+## IvetteSilva
+## EduardoOrdonezGutierrez
+## LuisHernanRojasMarin
+## AlbertoAbrahamMontielSalazar
+## KarlaEspadasRamos
+## SebastianRodriguezDelacruz
