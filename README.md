@@ -10,3 +10,5 @@ Repositorio para la materia Sistemas de manufactura ITQ
 ## SebastianRodriguezDelacruz
 ## NancyPaolaSerratos
 ## LizethNolascoSantiago 
+### LuisHernanRojasMarin
+
