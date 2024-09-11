@@ -8,3 +8,17 @@ Repositorio para la materia Sistemas de manufactura ITQ
 ## NancyPaolaSerratos
 ## ClaudioCésarDuarteVázquez
 ## ValeriaIvetteSilva
+## MiguelLorenzo10
+## AndresAlbertoRamirezGallegos
+## SebastianMaciasGarcia
+## ItzelYamiletRodriguezZarate
+## GerardoPulidoHernandez
+## diegotorres4422
+## EduardoOrdonezGutierrez
+## LizethNolascoSantiago 
+## MelanieVelazquezMendoza
+## Itzel-Fonseca
+## AlbertoAbrahamMontielSalazar
+## JessicaSuarezAvila
+## JocelynRamirezCorrales
+## MariaLuisaHernandez
