@@ -19,3 +19,4 @@ Repositorio para la materia Sistemas de manufactura ITQ
 ## MelanieVelazquezMendoza
 ## Itzel-Fonseca
 ## AlbertoAbrahamMontielSalazar
+## JessicaSuarezAvila
