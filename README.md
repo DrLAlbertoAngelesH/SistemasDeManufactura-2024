@@ -14,3 +14,4 @@ Repositorio para la materia Sistemas de manufactura ITQ
 ## ItzelYamiletRodriguezZarate
 ## GerardoPulidoHernandez
 ## diegotorres4422
+## EduardoOrdonezGutierrez
