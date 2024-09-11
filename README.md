@@ -9,3 +9,4 @@ Repositorio para la materia Sistemas de manufactura ITQ
 ## ClaudioCésarDuarteVázquez
 ## ValeriaIvetteSilva
 ## MiguelLorenzo10
+## AndresAlbertoRamirezGallegos
