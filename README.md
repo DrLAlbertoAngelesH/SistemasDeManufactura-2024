@@ -1,6 +1,7 @@
 # SistemasDeManufactura-2024
 Repositorio para la materia Sistemas de manufactura ITQ
 
+## Valeriafrancobecerra  
 # ¡Advertencia! Si cambias el branch principal se te bajarán 10 puntos
 
 ## YaelIsaiasSerranoMartinez
@@ -23,4 +24,5 @@ Repositorio para la materia Sistemas de manufactura ITQ
 ## JocelynRamirezCorrales
 ## MariaLuisaHernandez
 ## LuisAlonsoCastronPineda
+## JuliaHerreraJaime
 ## EspadasRamosKarla
