@@ -4,6 +4,7 @@ Repositorio para la materia Sistemas de manufactura ITQ
 # ¡Advertencia! Si cambias el branch principal se te bajarán 10 puntos
 
 ## YaelIsaiasSerranoMartinez
+## JuliaHerreraJaime 
 ## NancyPaolaSerratos
 ## ClaudioCésarDuarteVázquez
 ## ValeriaIvetteSilva
@@ -21,4 +22,5 @@ Repositorio para la materia Sistemas de manufactura ITQ
 ## JessicaSuarezAvila
 ## JocelynRamirezCorrales
 ## MariaLuisaHernandez
+## LuisAlonsoCastronPineda
 ## JuliaHerreraJaime
