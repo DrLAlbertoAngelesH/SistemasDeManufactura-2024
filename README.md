@@ -25,3 +25,4 @@ Repositorio para la materia Sistemas de manufactura ITQ
 ## MariaLuisaHernandez
 ## LuisAlonsoCastronPineda
 ## JuliaHerreraJaime
+## ValeriaIvetteSilva 
