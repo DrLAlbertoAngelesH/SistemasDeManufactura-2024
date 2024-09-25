@@ -30,4 +30,4 @@ Repositorio para la materia Sistemas de manufactura ITQ
 ### DanielEdmundoLópezBurgos
 ## DiegoAlbertoInfanteHernandez
 ## AmericaMelendez
-##JocelynPrueba2
+##JocelynPrueba3
