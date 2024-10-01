@@ -1,0 +1,8 @@
+#Ignora todos los nuevos archivos que se van a crear
+/*
+#Registra todos los cambios de mi carpeta e ignora la de mis compañeros
+!/116
+#Si alguien crea un nuevo archivo que no soy yo ignóralo
+/116/*
+#Excluir todo excepto el directorio %/img
+!/116/img
