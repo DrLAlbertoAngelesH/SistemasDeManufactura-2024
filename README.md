@@ -22,4 +22,8 @@ Repositorio para la materia Sistemas de manufactura ITQ
 ## JessicaSuarezAvila
 ## JocelynRamirezCorrales
 ## MariaLuisaHernandez
+<<<<<<< HEAD
 ## ArielMisaelZunigaSanchez
+=======
+## LuisAlonsoCastronPineda
+>>>>>>> d21b85b036bc34783c8243aa2214e0e710615a93
