@@ -1,8 +1,0 @@
-# Ignora todos los archivos nuevos que se van a crear 
-*/
-# Registra todos los cambios de mi carpeta e ignora la de mis compañeros
-!/31
-# Si alguien crea un archivo que no sea yo, ignóralo 
-/31/*
-# Excluir todo excepto el directorio 31/img
-!/31/img
