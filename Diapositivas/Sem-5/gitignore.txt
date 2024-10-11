@@ -1,0 +1,8 @@
+# Ingora todos los nuevos archivos que se van a crear
+/*
+# Registra todos los cambios de mi carpeta e ignora la de mis compañeros
+!/15
+# Si alguien crea un nuevo archivo que no sea yo ignoralo
+/15/*
+# Excluir todo excepto el directorio 15/img
+!/15/img
