@@ -1,5 +1,5 @@
 # Ingora todos los nuevos archivos que se van a crear
-/*
+# /*
 # Registra todos los cambios de mi carpeta e ignora la de mis compañeros
 !/8
 # Si alguien crea un nuevo archivo que no sea yo ignoralo
