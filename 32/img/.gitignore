@@ -1,8 +1,0 @@
-# Ingora todos los nuevos archivos que se van a crear
-# /*
-# Registra todos los cambios de mi carpeta e ignora la de mis compañeros
-!/32
-# Si alguien crea un nuevo archivo que no sea yo ignoralo
-/32/*
-# Excluir todo excepto el directorio 32/img
-!/32/img
